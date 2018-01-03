@@ -1,0 +1,93 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Nate Bird",
+	"home_page_url": "https://nate.micro.blog/",
+	"feed_url": "https://nate.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://nate.micro.blog/2018/01/03/iphone-x-tips.html",
+	      	
+			"title": "iPhone X Tips",
+			
+			"content_html": "<p>1) Fast(er) access to the multi-tasking switcher. Pull up from the bottom less than an inch, hesitate, then lift your finger from the screen. It is “pull up and lift finger” rather than a “flicking upward” gesture. Also, you don’t need to wait for the haptic feedback.</p>\n\n<p>2) You can still Force quit apps in the multitasker. First enter the multi-tasking view, then hold down on any of the apps. A red circle will appear in the top left of each app screen. You can tap the red circle or swipe up on the app screen to force quit each app. I don’t recommend force quitting any apps regularly. This should only be used in situations where you believe a particular app is misbehaving (i.e. Facebook). Force quitting all apps does not improve battery life. In fact, it reduces battery life by requiring more processing to start rather than resuming apps. </p>\n\n<p>3) Animoji doesn’t work in the dark.</p>\n\n<p>4) You can take a screenshot by pushing either volume button and the power button at the same time. Editing or sharing screenshots is awesome in iOS 11. Try it!</p>\n\n<p>5) If you hold down the top volume button and the power button at the same time for 2-3 seconds it will lock the phone and disable all biometric authentication (Face ID and Touch ID). Some call this the Police hold because you can activate it while handing your phone to an officer. Once activated only the passcode can unlock the phone.</p>\n\n<p><strong>Face ID</strong>\n1) Works in bright light or darkness just as well as indoor lighting.\n2) Requires being right side up to work; It doesn’t work sideways or upside down.\n3) It needs to be 8” - 24” from your face to work consistently.\n4) The best way to use Face ID is to pretend that your phone doesn’t have a passcode or Touch ID. Just tap the screen to wake the phone and then swipe up to go to the home screen or the previously used app.</p>\n",
+			"date_published": "2018-01-03T10:11:00-05:00",
+			"url": "https://nate.micro.blog/2018/01/03/iphone-x-tips.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2018/01/02/yearly-security-audit.html",
+	      	
+			"title": "Yearly Security Audit",
+			
+			"content_html": "<p>Around this time of year I start auditing some of my online security. Here are some links and tips so you can do the same. Have a happy and safe 2018.</p>\n\n<p>First, I clean out all the connected applications to Facebook, Twitter, and Google. Usually these are services I don’t use (or don’t exist anymore). They generally have more access to my data than I’m comfortable. Clean it up!</p>\n\n<ul>\n  <li>\n    <p>Facebook - <a href=\"https://www.facebook.com/settings\">www.facebook.com/settings</a></p>\n  </li>\n  <li>\n    <p>Twitter - <a href=\"https://twitter.com/settings/applications\">twitter.com/settings/…</a></p>\n  </li>\n  <li>\n    <p>Google - <a href=\"https://myaccount.google.com/u/0/permissions\">myaccount.google.com/u/0/permi…</a></p>\n  </li>\n</ul>\n\n<p>I use 1Password [https://1password.com] to manage all of my passwords. They have a handy section for security audit. You can check how old your passwords are but I mainly focus on the <em>Watchtower</em>  and <em>Weak Passwords</em> sections.</p>\n",
+			"date_published": "2018-01-02T15:55:00-05:00",
+			"url": "https://nate.micro.blog/2018/01/02/yearly-security-audit.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2017/12/25/ready-for-christmas.html",
+	      	
+			"content_html": "<p>Ready for Christmas morning!</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2017/bbd3ba3464.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-12-25T00:04:00-05:00",
+			"url": "https://nate.micro.blog/2017/12/25/ready-for-christmas.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2017/11/06/i-started-swimming.html",
+	      	
+			"content_html": "<p>I started swimming again today. My left arm has been hurting when I raise it above my head for the last month or so - probably from playing tennis. The first 1000 yards really hurt but my arm is much better now. Kind of a physical therapy…</p>\n",
+			"date_published": "2017-11-06T16:04:00-05:00",
+			"url": "https://nate.micro.blog/2017/11/06/i-started-swimming.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2017/11/05/im-not-sure.html",
+	      	
+			"content_html": "<p>I’m not sure I’ll use micro blog enough to pay for it. It’s cool but I don’t post enough to make it worth paying. It’s not you; it’s me. 🙃</p>\n",
+			"date_published": "2017-11-04T22:52:00-05:00",
+			"url": "https://nate.micro.blog/2017/11/04/im-not-sure.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2017/11/05/interesting-that-face.html",
+	      	
+			"content_html": "<p>Interesting that Face ID works in the dark but Animoji needs light. #iPhoneX</p>\n",
+			"date_published": "2017-11-04T22:50:00-05:00",
+			"url": "https://nate.micro.blog/2017/11/04/interesting-that-face.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2017/11/04/an-after-midnight.html",
+	      	
+			"content_html": "<p>An after midnight post for the badge. 😜</p>\n",
+			"date_published": "2017-11-03T23:13:00-05:00",
+			"url": "https://nate.micro.blog/2017/11/03/an-after-midnight.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2017/11/03/iphone-x-is.html",
+	      	
+			"content_html": "<p>iPhone X is in hand and it’s awesome!</p>\n",
+			"date_published": "2017-11-03T17:46:00-05:00",
+			"url": "https://nate.micro.blog/2017/11/03/iphone-x-is.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2017/11/02/one-more-day.html",
+	      	
+			"content_html": "<p>One more day! #iPhoneX</p>\n",
+			"date_published": "2017-11-02T14:54:00-05:00",
+			"url": "https://nate.micro.blog/2017/11/02/one-more-day.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2017/10/31/im-getting-excited.html",
+	      	
+			"content_html": "<p>I’m getting excited about my new iPhone coming. My first new iPhone since the 6. The reviews today are only increasing the excitement. Yay!</p>\n",
+			"date_published": "2017-10-31T14:26:00-05:00",
+			"url": "https://nate.micro.blog/2017/10/31/im-getting-excited.html"
+		}
+		
+	]
+}
