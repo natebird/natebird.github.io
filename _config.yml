@@ -1,0 +1,32 @@
+email: your-email@domain.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+title: "Nate Bird"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/nate\">@nate on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/nate\">@nate on Micro.blog</a>."
+baseurl: ""
+url: "https://nate.micro.blog"
+markdown: "kramdown"
+username: "nate"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Nate Bird"
+name: "Nate Bird"
+gravatar_hash: "a66b560a1dc1f0386002e465629ce6ba"
+avatar: "https://micro.blog/nate/avatar.jpg"
+full_name: "Nate Bird"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Michigan"
+site_id: "1621"
