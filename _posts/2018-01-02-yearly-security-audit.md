@@ -15,4 +15,4 @@ First, I clean out all the connected applications to Facebook, Twitter, and Goog
 
 * Google - [myaccount.google.com/u/0/permi...](https://myaccount.google.com/u/0/permissions)
 
-I use 1Password [https://1password.com] to manage all of my passwords. They have a handy section for security audit. You can check how old your passwords are but I mainly focus on the _Watchtower_  and _Weak Passwords_ sections.
+I use [1Password](https://1password.com) to manage all of my passwords. They have a handy section for security audit. You can check how old your passwords are but I mainly focus on the _Watchtower_  and _Weak Passwords_ sections.
