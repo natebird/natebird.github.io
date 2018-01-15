@@ -3,8 +3,8 @@ title: "About"
 permalink: "/about/"
 layout: page
 order: 1
-date: 2018-01-03 15:35 -0500
+date: 2018-01-15 10:10 -0500
 ---
-Hi. I'm Nate. I am a Ruby web and Swift developer. I work on the [CardioMEMS System](https://www.sjm.com/en/sjm/cardiomems) which helps people live better and healthier. 
+Hi. I'm Nate. I am a Ruby and Swift developer. I work on the [CardioMEMS Heart Failure System](https://www.sjm.com/en/sjm/cardiomems) which helps doctors better treat patients with heart failure. 
 
-You can find me on Twitter [@natesbird](https://twitter.com/natesbird). Say hello, I don't bite.
+You can also find me on Twitter [@natesbird](https://twitter.com/natesbird). Say hello, I don't bite.
