@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nate.micro.blog/2018/01/15/the-girls-and.html",
+	      	
+			"content_html": "<p>The girls and I built my (yes, I get LEGO for Christmas) Kylo Ren’s Command Shuttle over Christmas break and re-built my daughter’s Millenium Falcon from scratch (finding each piece among the bins of LEGO!!!) this weekend. </p>\n\n<p>This seems like a precursor of episode IX.</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/da074f30eb.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-15T10:18:00-05:00",
+			"url": "https://nate.micro.blog/2018/01/15/the-girls-and.html"
+		},
+		
+		{
 			"id": "http://nate.micro.blog/2018/01/04/one-of-the.html",
 	      	
 			"content_html": "<p>One of the benefits of having kids who like Star Wars and robots is having these two for company on my desk.</p>\n\n<p>Fun fact: sometimes they wake up and move around and start chatting. It’s startled me a more than once.</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/1d394255ee.jpg\" width=\"600\" height=\"458\" /></p>\n",
@@ -79,14 +87,6 @@
 			"content_html": "<p>iPhone X is in hand and it’s awesome!</p>\n",
 			"date_published": "2017-11-03T17:46:00-05:00",
 			"url": "https://nate.micro.blog/2017/11/03/iphone-x-is.html"
-		},
-		
-		{
-			"id": "http://nate.micro.blog/2017/11/02/one-more-day.html",
-	      	
-			"content_html": "<p>One more day! #iPhoneX</p>\n",
-			"date_published": "2017-11-02T14:54:00-05:00",
-			"url": "https://nate.micro.blog/2017/11/02/one-more-day.html"
 		}
 		
 	]
