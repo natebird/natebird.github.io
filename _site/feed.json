@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nate.micro.blog/2018/02/03/latest-star-wars.html",
+	      	
+			"content_html": "<p>Latest Star Wars LEGO project. Poe Cameron’s Resistance X-Wing. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/491a83b90c.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-03T13:33:00-05:00",
+			"url": "https://nate.micro.blog/2018/02/03/latest-star-wars.html"
+		},
+		
+		{
 			"id": "http://nate.micro.blog/2018/01/15/the-girls-and.html",
 	      	
 			"content_html": "<p>The girls and I built my (yes, I get LEGO for Christmas) Kylo Ren’s Command Shuttle over Christmas break and re-built my daughter’s Millenium Falcon from scratch (finding each piece among the bins of LEGO!!!) this weekend. </p>\n\n<p>This seems like a precursor of episode IX.</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/da074f30eb.jpg\" width=\"450\" height=\"600\" /></p>\n",
@@ -79,14 +87,6 @@
 			"content_html": "<p>An after midnight post for the badge. 😜</p>\n",
 			"date_published": "2017-11-03T23:13:00-05:00",
 			"url": "https://nate.micro.blog/2017/11/03/an-after-midnight.html"
-		},
-		
-		{
-			"id": "http://nate.micro.blog/2017/11/03/iphone-x-is.html",
-	      	
-			"content_html": "<p>iPhone X is in hand and it’s awesome!</p>\n",
-			"date_published": "2017-11-03T17:46:00-05:00",
-			"url": "https://nate.micro.blog/2017/11/03/iphone-x-is.html"
 		}
 		
 	]
