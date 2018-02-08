@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://nate.micro.blog/2018/02/08/podcast-the-compass.html",
+	      	
+			"title": "Podcast: The Compass - My Perfect Country",
+			
+			"content_html": "<p>The linked episode is part of a series about building a perfect country. They visit countries all over the world and find something in which that particular country excels. Rwanda has amazing gender equality laws and regulations. It’s a great podcast outside of my normal tech episodes. <a href=\"https://overcast.fm/+Ip9RuwDkg\">overcast.fm/+Ip9RuwDk…</a> </p>\n",
+			"date_published": "2018-02-08T08:05:00-05:00",
+			"url": "https://nate.micro.blog/2018/02/08/podcast-the-compass.html"
+		},
+		
+		{
 			"id": "http://nate.micro.blog/2018/02/03/latest-star-wars.html",
 	      	
 			"content_html": "<p>Latest Star Wars LEGO project. Poe Cameron’s Resistance X-Wing. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/491a83b90c.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -79,14 +89,6 @@
 			"content_html": "<p>Interesting that Face ID works in the dark but Animoji needs light. #iPhoneX</p>\n",
 			"date_published": "2017-11-04T22:50:00-05:00",
 			"url": "https://nate.micro.blog/2017/11/04/interesting-that-face.html"
-		},
-		
-		{
-			"id": "http://nate.micro.blog/2017/11/04/an-after-midnight.html",
-	      	
-			"content_html": "<p>An after midnight post for the badge. 😜</p>\n",
-			"date_published": "2017-11-03T23:13:00-05:00",
-			"url": "https://nate.micro.blog/2017/11/03/an-after-midnight.html"
 		}
 		
 	]
