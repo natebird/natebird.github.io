@@ -4,8 +4,27 @@
     <title>Nate Bird</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nate&quot;&gt;@nate on Micro.blog&lt;/a&gt;.</description>
     <link>https://nate.micro.blog/</link>
-    <pubDate>Fri, 23 Feb 2018 11:03:37 -0500</pubDate>
-    <lastBuildDate>Fri, 23 Feb 2018 11:03:37 -0500</lastBuildDate>
+    <pubDate>Sun, 04 Mar 2018 16:34:11 -0500</pubDate>
+    <lastBuildDate>Sun, 04 Mar 2018 16:34:11 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <title>Ignore the real world</title>
+        
+        <description>&lt;p&gt;The real world says, “the only things that win are what people already know and do, even if those things are flawed and inefficient.”&lt;/p&gt;
+
+&lt;p&gt;In the corporate world the things people know and do are usually processes that are strictly defined or mandated from above without reason. &lt;/p&gt;
+
+&lt;p&gt;For instance, the use of MS Word for all documentation or getting signatures from all departments (regardless of whether it effects them) to deploy code. &lt;/p&gt;
+
+&lt;p&gt;For my team, I’m moving our documents to a git repo and writing them in markdown to avoid hours of formatting templates and reviewing redlines in Word. &lt;/p&gt;
+
+&lt;p&gt;It’s a small change but it will have a big impact on our ability to release quickly. The process managers might balk at this change but it will be much easier to maintain and my team will continue to deliver results with much less resources.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Mar 2018 16:34:00 -0500</pubDate>
+        <link>https://nate.micro.blog/2018/03/04/ignore-the-real.html</link>
+        <guid isPermaLink="true">http://nate.micro.blog/2018/03/04/ignore-the-real.html</guid>
+      </item>
     
       <item>
       	
