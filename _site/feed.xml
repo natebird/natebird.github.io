@@ -4,8 +4,8 @@
     <title>Nate Bird</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nate&quot;&gt;@nate on Micro.blog&lt;/a&gt;.</description>
     <link>https://nate.micro.blog/</link>
-    <pubDate>Sun, 04 Mar 2018 16:34:11 -0500</pubDate>
-    <lastBuildDate>Sun, 04 Mar 2018 16:34:11 -0500</lastBuildDate>
+    <pubDate>Mon, 05 Mar 2018 09:38:48 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Mar 2018 09:38:48 -0500</lastBuildDate>
     
       <item>
       	
@@ -20,6 +20,8 @@
 &lt;p&gt;For my team, I’m moving our documents to a git repo and writing them in markdown to avoid hours of formatting templates and reviewing redlines in Word. &lt;/p&gt;
 
 &lt;p&gt;It’s a small change but it will have a big impact on our ability to release quickly. The process managers might balk at this change but it will be much easier to maintain and my team will continue to deliver results with much less resources.&lt;/p&gt;
+
+&lt;p&gt;Note: This is a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Mar 2018 16:34:00 -0500</pubDate>
         <link>https://nate.micro.blog/2018/03/04/ignore-the-real.html</link>
