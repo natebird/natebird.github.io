@@ -15,4 +15,4 @@ For my team, I’m moving our documents to a git repo and writing them in markdo
 
 It’s a small change but it will have a big impact on our ability to release quickly. The process managers might balk at this change but it will be much easier to maintain and my team will continue to deliver results with much less resources.
 
-Note: This is a series of posts inspired by re-reading [Rework](https://basecamp.com/books/rework), by [DHH](https://twitter.com/dhh) and [Jason Fried](https://twitter.com/jasonfried).
+_Note: This is a series of posts inspired by re-reading [Rework](https://basecamp.com/books/rework), by [DHH](https://twitter.com/dhh) and [Jason Fried](https://twitter.com/jasonfried)._
