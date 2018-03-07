@@ -4,8 +4,44 @@
     <title>Nate Bird</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nate&quot;&gt;@nate on Micro.blog&lt;/a&gt;.</description>
     <link>https://nate.micro.blog/</link>
-    <pubDate>Mon, 05 Mar 2018 09:43:04 -0500</pubDate>
-    <lastBuildDate>Mon, 05 Mar 2018 09:43:04 -0500</lastBuildDate>
+    <pubDate>Tue, 06 Mar 2018 21:37:04 -0500</pubDate>
+    <lastBuildDate>Tue, 06 Mar 2018 21:37:04 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <title>Planning is guessing</title>
+        
+        <description>&lt;p&gt;The process we follow for releasing software starts with a design planning meeting. It has a form to plan the release and a full grant chart is supposed to be attached to the document. All of this happens before any code is written. The end date is chosen before we get a chance to dig into the details. The schedule always needs to be adjusted. The plain never stays the same. And it always is late. The dates are chosen so far in advance with an optimistic mindset that it is nearly impossible to keep them.&lt;/p&gt;
+
+&lt;p&gt;Planning is useful when you need to coordinate with other groups. But only a couple weeks in advance. I don’t know how many times a deploy has been scheduled a month or so in advance and that date is never hit. But we can plan what needs to be done and then work on the highest priority items until we finish.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, I like to plan what needs to be done but things go awry when you schedule them.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: This is a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Mar 2018 21:33:00 -0500</pubDate>
+        <link>https://nate.micro.blog/2018/03/06/planning-is-guessing.html</link>
+        <guid isPermaLink="true">http://nate.micro.blog/2018/03/07/planning-is-guessing.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Failure is not a rite of passage</title>
+        
+        <description>&lt;p&gt;“Failure is not a prerequisite for success.”&lt;/p&gt;
+
+&lt;p&gt;In the corporate world failure isn’t celebrated like in startup culture. In fact I would say the pendulum has swung the other way and everything is protected so much and all risk is analyzed, categorized, and catalogued. Not allowing failure in the process means that a lot of extra work is done before anything is released. It also means that small mistakes can take a long time to fix because of the long time frames required to release something new because the new thing can’t have any known issues.&lt;/p&gt;
+
+&lt;p&gt;So while failure in startup culture is celebrated and the motto is move fast and break things. The corporate world is moving so slowly that problems compound and reaction to changes takes months or years.&lt;/p&gt;
+
+&lt;p&gt;A healthy balance of fast processes with careful consideration and thought into what is released goes a long way to creating quality products.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: This is a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Mar 2018 21:32:00 -0500</pubDate>
+        <link>https://nate.micro.blog/2018/03/06/failure-is-not.html</link>
+        <guid isPermaLink="true">http://nate.micro.blog/2018/03/07/failure-is-not.html</guid>
+      </item>
     
       <item>
       	
@@ -21,7 +57,7 @@
 
 &lt;p&gt;It’s a small change but it will have a big impact on our ability to release quickly. The process managers might balk at this change but it will be much easier to maintain and my team will continue to deliver results with much less resources.&lt;/p&gt;
 
-&lt;p&gt;Note: This is a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: This is a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Mar 2018 16:34:00 -0500</pubDate>
         <link>https://nate.micro.blog/2018/03/04/ignore-the-real.html</link>
@@ -65,7 +101,7 @@
     
       <item>
       	
-        <description>&lt;p&gt;Latest Star Wars LEGO project. Poe Cameron’s Resistance X-Wing. &lt;/p&gt;
+        <description>&lt;p&gt;Latest Star Wars LEGO project - Poe Dameron’s Resistance X-Wing. &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2018/491a83b90c.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
