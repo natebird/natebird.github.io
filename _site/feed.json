@@ -6,11 +6,31 @@
 	"items": [
 		
 		{
+			"id": "http://nate.micro.blog/2018/03/07/planning-is-guessing.html",
+	      	
+			"title": "Planning is guessing",
+			
+			"content_html": "<p>The process we follow for releasing software starts with a design planning meeting. It has a form to plan the release and a full grant chart is supposed to be attached to the document. All of this happens before any code is written. The end date is chosen before we get a chance to dig into the details. The schedule always needs to be adjusted. The plain never stays the same. And it always is late. The dates are chosen so far in advance with an optimistic mindset that it is nearly impossible to keep them.</p>\n\n<p>Planning is useful when you need to coordinate with other groups. But only a couple weeks in advance. I don’t know how many times a deploy has been scheduled a month or so in advance and that date is never hit. But we can plan what needs to be done and then work on the highest priority items until we finish.</p>\n\n<p>In conclusion, I like to plan what needs to be done but things go awry when you schedule them.</p>\n\n<p><em>Note: This is a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
+			"date_published": "2018-03-06T21:33:00-05:00",
+			"url": "https://nate.micro.blog/2018/03/06/planning-is-guessing.html"
+		},
+		
+		{
+			"id": "http://nate.micro.blog/2018/03/07/failure-is-not.html",
+	      	
+			"title": "Failure is not a rite of passage",
+			
+			"content_html": "<p>“Failure is not a prerequisite for success.”</p>\n\n<p>In the corporate world failure isn’t celebrated like in startup culture. In fact I would say the pendulum has swung the other way and everything is protected so much and all risk is analyzed, categorized, and catalogued. Not allowing failure in the process means that a lot of extra work is done before anything is released. It also means that small mistakes can take a long time to fix because of the long time frames required to release something new because the new thing can’t have any known issues.</p>\n\n<p>So while failure in startup culture is celebrated and the motto is move fast and break things. The corporate world is moving so slowly that problems compound and reaction to changes takes months or years.</p>\n\n<p>A healthy balance of fast processes with careful consideration and thought into what is released goes a long way to creating quality products.</p>\n\n<p><em>Note: This is a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
+			"date_published": "2018-03-06T21:32:00-05:00",
+			"url": "https://nate.micro.blog/2018/03/06/failure-is-not.html"
+		},
+		
+		{
 			"id": "http://nate.micro.blog/2018/03/04/ignore-the-real.html",
 	      	
 			"title": "Ignore the real world",
 			
-			"content_html": "<p>The real world says, “the only things that win are what people already know and do, even if those things are flawed and inefficient.”</p>\n\n<p>In the corporate world the things people know and do are usually processes that are strictly defined or mandated from above without reason. </p>\n\n<p>For instance, the use of MS Word for all documentation or getting signatures from all departments (regardless of whether it effects them) to deploy code. </p>\n\n<p>For my team, I’m moving our documents to a git repo and writing them in markdown to avoid hours of formatting templates and reviewing redlines in Word. </p>\n\n<p>It’s a small change but it will have a big impact on our ability to release quickly. The process managers might balk at this change but it will be much easier to maintain and my team will continue to deliver results with much less resources.</p>\n\n<p>Note: This is a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</p>\n",
+			"content_html": "<p>The real world says, “the only things that win are what people already know and do, even if those things are flawed and inefficient.”</p>\n\n<p>In the corporate world the things people know and do are usually processes that are strictly defined or mandated from above without reason. </p>\n\n<p>For instance, the use of MS Word for all documentation or getting signatures from all departments (regardless of whether it effects them) to deploy code. </p>\n\n<p>For my team, I’m moving our documents to a git repo and writing them in markdown to avoid hours of formatting templates and reviewing redlines in Word. </p>\n\n<p>It’s a small change but it will have a big impact on our ability to release quickly. The process managers might balk at this change but it will be much easier to maintain and my team will continue to deliver results with much less resources.</p>\n\n<p><em>Note: This is a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
 			"date_published": "2018-03-04T16:34:00-05:00",
 			"url": "https://nate.micro.blog/2018/03/04/ignore-the-real.html"
 		},
@@ -46,7 +66,7 @@
 		{
 			"id": "http://nate.micro.blog/2018/02/03/latest-star-wars.html",
 	      	
-			"content_html": "<p>Latest Star Wars LEGO project. Poe Cameron’s Resistance X-Wing. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/491a83b90c.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"content_html": "<p>Latest Star Wars LEGO project - Poe Dameron’s Resistance X-Wing. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/491a83b90c.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-02-03T13:33:00-05:00",
 			"url": "https://nate.micro.blog/2018/02/03/latest-star-wars.html"
 		},
