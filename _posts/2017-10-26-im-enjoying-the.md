@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-26 15:08 -0500
+date: 2017-10-26 16:08 -0400
 guid: http://nate.micro.blog/2017/10/26/im-enjoying-the.html
 ---
 I’m enjoying the falls colors of Seattle this week. 
