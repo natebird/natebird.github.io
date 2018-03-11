@@ -2,7 +2,7 @@
 layout: post
 title: "Yearly Security Audit"
 microblog: false
-date: 2018-01-02 15:55 -0500
+date: 2018-01-02 16:55 -0400
 guid: http://nate.micro.blog/2018/01/02/yearly-security-audit.html
 ---
 Around this time of year I start auditing some of my online security. Here are some links and tips so you can do the same. Have a happy and safe 2018.
