@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-15 10:18 -0500
+date: 2018-01-15 11:18 -0400
 guid: http://nate.micro.blog/2018/01/15/the-girls-and.html
 ---
 The girls and I built my (yes, I get LEGO for Christmas) Kylo Ren's Command Shuttle over Christmas break and re-built my daughter’s Millenium Falcon from scratch (finding each piece among the bins of LEGO!!!) this weekend. 
