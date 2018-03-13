@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://nate.micro.blog/2018/03/13/be-a-starter.html",
+	      	
+			"title": "Be a Starter",
+			
+			"content_html": "<p>In 2008 I created my own business. I registered an LLC and tried to create a web application that could host simple web sites for carpet cleaners. While it didn’t work out how I envisioned I fancied calling myself an entrepreneur. I was building something new. I was going to put carpet cleaners on the internet. I did those things, only on a much smaller scale than I initially envisioned. But I did get the ‘create’ something bug. I learned that I liked creating things. New apps, new workflows, new processes.</p>\n\n<p>While entrepreneur is a loaded word anyone can be a starter. You can start something within the company where you work. You can start your own thing selling stuff online. It may not be to the grand scale you initially imagine but you’ll feel good doing what you love and you’ll learn a lot along the way. Do it. Be a starter.</p>\n\n<p><em>Note: This is part of a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
+			"date_published": "2018-03-13T13:47:00-04:00",
+			"url": "https://nate.micro.blog/2018/03/13/be-a-starter.html"
+		},
+		
+		{
 			"id": "http://nate.micro.blog/2018/03/11/workaholism.html",
 	      	
 			"title": "Workaholism",
@@ -213,14 +223,6 @@
 			"content_html": "<p>I’m enjoying the falls colors of Seattle this week. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2017/1624c5d90a.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-26T16:08:00-04:00",
 			"url": "https://nate.micro.blog/2017/10/26/im-enjoying-the.html"
-		},
-		
-		{
-			"id": "http://nate.micro.blog/2017/10/25/finished-the-third.html",
-	      	
-			"content_html": "<p>Finished the third day of Thinking in Swift in Seattle. This intermediate course has been insightful and dug into different types of ‘map’ and various ViewController communication types. I recommend it. </p>\n",
-			"date_published": "2017-10-25T19:57:00-04:00",
-			"url": "https://nate.micro.blog/2017/10/25/finished-the-third.html"
 		}
 		
 	]
