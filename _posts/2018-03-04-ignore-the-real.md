@@ -2,6 +2,7 @@
 layout: post
 title: "Ignore the real world"
 microblog: false
+audio: 
 date: 2018-03-04 17:34 -0400
 guid: http://nate.micro.blog/2018/03/04/ignore-the-real.html
 ---
