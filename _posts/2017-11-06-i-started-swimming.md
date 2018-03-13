@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-06 17:04 -0400
 guid: http://nate.micro.blog/2017/11/06/i-started-swimming.html
 ---
