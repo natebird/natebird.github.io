@@ -2,6 +2,7 @@
 layout: post
 title: "Yearly Security Audit"
 microblog: false
+audio: 
 date: 2018-01-02 16:55 -0400
 guid: http://nate.micro.blog/2018/01/02/yearly-security-audit.html
 ---
