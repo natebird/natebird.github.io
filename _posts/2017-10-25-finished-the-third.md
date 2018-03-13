@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-25 19:57 -0400
 guid: http://nate.micro.blog/2017/10/25/finished-the-third.html
 ---
