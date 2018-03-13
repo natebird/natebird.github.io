@@ -2,6 +2,7 @@
 layout: post
 title: "Fixing the Apple TV Remote"
 microblog: false
+audio: 
 date: 2018-02-23 12:03 -0400
 guid: http://nate.micro.blog/2018/02/23/fixing-the-apple.html
 ---
