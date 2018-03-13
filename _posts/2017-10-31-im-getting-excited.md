@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-31 15:26 -0400
 guid: http://nate.micro.blog/2017/10/31/im-getting-excited.html
 ---
