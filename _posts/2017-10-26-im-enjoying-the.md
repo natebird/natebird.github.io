@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-10-26 16:08 -0400
 guid: http://nate.micro.blog/2017/10/26/im-enjoying-the.html
 ---
