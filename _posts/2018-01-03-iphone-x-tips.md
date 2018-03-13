@@ -2,6 +2,7 @@
 layout: post
 title: "iPhone X Tips"
 microblog: false
+audio: 
 date: 2018-01-03 11:11 -0400
 guid: http://nate.micro.blog/2018/01/03/iphone-x-tips.html
 ---
