@@ -2,6 +2,7 @@
 layout: post
 title: "Planning is guessing"
 microblog: false
+audio: 
 date: 2018-03-06 22:33 -0400
 guid: http://nate.micro.blog/2018/03/07/planning-is-guessing.html
 ---
