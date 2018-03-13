@@ -2,6 +2,7 @@
 layout: post
 title: "Podcast: The Compass - My Perfect Country"
 microblog: false
+audio: 
 date: 2018-02-08 09:05 -0400
 guid: http://nate.micro.blog/2018/02/08/podcast-the-compass.html
 ---
