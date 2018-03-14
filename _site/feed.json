@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://nate.micro.blog/2018/03/14/make-a-dent.html",
+	      	
+			"title": "Make a Dent in the Universe",
+			
+			"content_html": "<blockquote>\n  <p>To do great work, you need to feel that you’re making a difference. That you’re putting a meaningful dent in the universe. That you’re part of something important.</p>\n</blockquote>\n\n<p>The older I become the more important it is to me that I’m doing meaningful work. When I was just starting out in programming I just wanted to be doing anything - learn new things or participate in some way. Now, I’m a little more deliberate with my time (because I, seemingly, have less free time). I’m also more choosy with what projects I participate.</p>\n\n<p>I’m not in a position in life where I’m comfortable starting my own side venture and going it on my own. That time has passed as my priorities have changed but I still have side projects and my main job does have a meaningful impact on people’s lives and health. People live longer and have improved quality of life because of software I’ve written. That gets me through long meetings and onerous documentation requirements.</p>\n\n<p>However, I realize that my children and grandchildren are my legacy, and collectively, they will put a bigger dent in the universe than I can by myself.</p>\n\n<p><em>Note: This is part of a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
+			"date_published": "2018-03-14T10:53:00-04:00",
+			"url": "https://nate.micro.blog/2018/03/14/make-a-dent.html"
+		},
+		
+		{
 			"id": "http://nate.micro.blog/2018/03/13/be-a-starter.html",
 	      	
 			"title": "Be a Starter",
@@ -215,14 +225,6 @@
 			"content_html": "<p>I visited my dad’s grave today. Even after three years I still miss him a lot. He was a good man. I hope I can live up to his legacy. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2017/2a5de67811.jpg\" width=\"600\" height=\"600\" /><img src=\"http://nate.micro.blog/uploads/2017/f4701f178d.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-10-28T02:11:00-04:00",
 			"url": "https://nate.micro.blog/2017/10/28/i-visited-my.html"
-		},
-		
-		{
-			"id": "http://nate.micro.blog/2017/10/26/im-enjoying-the.html",
-	      	
-			"content_html": "<p>I’m enjoying the falls colors of Seattle this week. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2017/1624c5d90a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-26T16:08:00-04:00",
-			"url": "https://nate.micro.blog/2017/10/26/im-enjoying-the.html"
 		}
 		
 	]
