@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://nate.micro.blog/2018/04/09/a-new-trailer.html",
+	      	
+			"content_html": "<p>A new trailer for Solo: A Star Wars Story! I’m pretty excited about this. <a href=\"https://www.youtube.com/watch?v=jPEYpryMp2s\">www.youtube.com/watch</a></p>\n",
+			"date_published": "2018-04-09T11:39:00-04:00",
+			"url": "https://nate.micro.blog/2018/04/09/a-new-trailer.html"
+		},
+		
+		{
 			"id": "http://nate.micro.blog/2018/03/14/make-a-dent.html",
 	      	
 			"title": "Make a Dent in the Universe",
@@ -30,7 +38,7 @@
 	      	
 			"title": "Workaholism",
 			
-			"content_html": "<blockquote>\n  <p>It’s considered a badge of honor to kill yourself over a project.\nI’ve been in this position a few times in my career. One particular time came just after Thanksgiving one year. We were creating an application and were told we had to have it done by the end of the year. We were six months into the project and I felt we were about half done. It was an impossible task for our small team. </p>\n</blockquote>\n\n<p>We contracted help but it took until the end of the year to just get them up to speed and on board. I was managing the project and assigning tasks and drawing up interfaces and writing requirements for the contractors as we went. We, of course, missed the end of year deadline and didn’t wrap things up until mid February (which is still a miracle in my opinion). </p>\n\n<p>The lesson I learned during that time was that it wasn’t worth it. I felt guilty for not working during the two days I took off for Christmas. I missed my brother’s wedding at the beginning of January because the contractors were coming on and needed guidance of what to do and I was the only one who could do that. There were reasons for why I worked 18 hours a day for 10-12 weeks. There are always reasons. </p>\n\n<p>In the end it didn’t really matter. The fact that we finished in February didn’t matter. We could have finished a month later and it would have turned out fine. I could have worked regular hours, hired the same contractors, finished in March, attended by brother’s wedding, spent time with my kids during the Christmas holidays, and not suffered burnout for the three months after.</p>\n\n<p>Now when I receive a deadline from on high I push back because long term workaholism isn’t worth it. It usually isn’t even necessary.</p>\n\n<p><em>Note: This is part of a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
+			"content_html": "<blockquote>\n  <p>It’s considered a badge of honor to kill yourself over a project.\nI’ve been in this position a few times in my career. One particular time came just after Thanksgiving one year. We were creating an application and were told we had to have it done by the end of the year. We were six months into the project and I felt we were about half done. It was an impossible task for our small team.</p>\n</blockquote>\n\n<p>We contracted help but it took until the end of the year to just get them up to speed and on board. I was managing the project and assigning tasks and drawing up interfaces and writing requirements for the contractors as we went. We, of course, missed the end of year deadline and didn’t wrap things up until mid February (which is still a miracle in my opinion).</p>\n\n<p>The lesson I learned during that time was that it wasn’t worth it. I felt guilty for not working during the two days I took off for Christmas. I missed my brother’s wedding at the beginning of January because the contractors were coming on and needed guidance of what to do and I was the only one who could do that. There were reasons for why I worked 18 hours a day for 10-12 weeks. There are always reasons.</p>\n\n<p>In the end it didn’t really matter. The fact that we finished in February didn’t matter. We could have finished a month later and it would have turned out fine. I could have worked regular hours, hired the same contractors, finished in March, attended by brother’s wedding, spent time with my kids during the Christmas holidays, and not suffered burnout for the three months after.</p>\n\n<p>Now when I receive a deadline from on high I push back because long term workaholism isn’t worth it. It usually isn’t even necessary.</p>\n\n<p><em>Note: This is part of a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
 			"date_published": "2018-03-11T13:37:00-04:00",
 			"url": "https://nate.micro.blog/2018/03/11/workaholism.html"
 		},
@@ -41,7 +49,7 @@
 			"title": "Why Grow?",
 			
 			"content_html": "<p>The premise of this section is that businesses are judged based on their size and that bigger is better and more successful. DHH and JF refute this notion and propose that any business has an optimal size and that may be just one person or 5,000 people. You need to find the right size for your business and go with it. It may change over time. Just let it happen organically. The highest priority shouldn’t be to grow.</p>\n\n<p>I work in a very large company. Multiple international sites all over the world big. But my team has two members. And for now that is enough. I would like a third member for a couple reasons. First, to alleviate some of the pressure we have to deliver on the schedule we’ve set. Second, to bring more diversity and perspective to the team. Third, we need more leverage within our business group and size actually matters for that.</p>\n\n<p>That is the balance I find myself faced with. We are a very productive team. We ship software often (compared to other teams in the company). We write good code. We are super efficient. Our software doesn’t have many issues. But those are also problems in a large company. We don’t receive the visibility of other teams because no one is talking about us. When nothing goes wrong then no one cares. Management cares when there are problems to solve. If you don’t have problems then you don’t receive attention.</p>\n\n<p><em>Note: This is part of a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
-			"date_published": "2018-03-10T17:38:00-04:00",
+			"date_published": "2018-03-10T16:38:00-05:00",
 			"url": "https://nate.micro.blog/2018/03/10/why-grow.html"
 		},
 		
@@ -51,7 +59,7 @@
 			"title": "Planning is guessing",
 			
 			"content_html": "<p>The process we follow for releasing software starts with a design planning meeting. It has a form to plan the release and a full grant chart is supposed to be attached to the document. All of this happens before any code is written. The end date is chosen before we get a chance to dig into the details. The schedule always needs to be adjusted. The plain never stays the same. And it always is late. The dates are chosen so far in advance with an optimistic mindset that it is nearly impossible to keep them.</p>\n\n<p>Planning is useful when you need to coordinate with other groups. But only a couple weeks in advance. I don’t know how many times a deploy has been scheduled a month or so in advance and that date is never hit. But we can plan what needs to be done and then work on the highest priority items until we finish.</p>\n\n<p>In conclusion, I like to plan what needs to be done but things go awry when you schedule them.</p>\n\n<p><em>Note: This is a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
-			"date_published": "2018-03-06T22:33:00-04:00",
+			"date_published": "2018-03-06T21:33:00-05:00",
 			"url": "https://nate.micro.blog/2018/03/06/planning-is-guessing.html"
 		},
 		
@@ -61,7 +69,7 @@
 			"title": "Failure is not a rite of passage",
 			
 			"content_html": "<p>“Failure is not a prerequisite for success.”</p>\n\n<p>In the corporate world failure isn’t celebrated like in startup culture. In fact I would say the pendulum has swung the other way and everything is protected so much and all risk is analyzed, categorized, and catalogued. Not allowing failure in the process means that a lot of extra work is done before anything is released. It also means that small mistakes can take a long time to fix because of the long time frames required to release something new because the new thing can’t have any known issues.</p>\n\n<p>So while failure in startup culture is celebrated and the motto is move fast and break things. The corporate world is moving so slowly that problems compound and reaction to changes takes months or years.</p>\n\n<p>A healthy balance of fast processes with careful consideration and thought into what is released goes a long way to creating quality products.</p>\n\n<p><em>Note: This is a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
-			"date_published": "2018-03-06T22:32:00-04:00",
+			"date_published": "2018-03-06T21:32:00-05:00",
 			"url": "https://nate.micro.blog/2018/03/06/failure-is-not.html"
 		},
 		
@@ -70,8 +78,8 @@
 	      	
 			"title": "Ignore the real world",
 			
-			"content_html": "<p>The real world says, “the only things that win are what people already know and do, even if those things are flawed and inefficient.”</p>\n\n<p>In the corporate world the things people know and do are usually processes that are strictly defined or mandated from above without reason. </p>\n\n<p>For instance, the use of MS Word for all documentation or getting signatures from all departments (regardless of whether it effects them) to deploy code. </p>\n\n<p>For my team, I’m moving our documents to a git repo and writing them in markdown to avoid hours of formatting templates and reviewing redlines in Word. </p>\n\n<p>It’s a small change but it will have a big impact on our ability to release quickly. The process managers might balk at this change but it will be much easier to maintain and my team will continue to deliver results with much less resources.</p>\n\n<p><em>Note: This is a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
-			"date_published": "2018-03-04T17:34:00-04:00",
+			"content_html": "<p>The real world says, “the only things that win are what people already know and do, even if those things are flawed and inefficient.”</p>\n\n<p>In the corporate world the things people know and do are usually processes that are strictly defined or mandated from above without reason.</p>\n\n<p>For instance, the use of MS Word for all documentation or getting signatures from all departments (regardless of whether it effects them) to deploy code.</p>\n\n<p>For my team, I’m moving our documents to a git repo and writing them in markdown to avoid hours of formatting templates and reviewing redlines in Word.</p>\n\n<p>It’s a small change but it will have a big impact on our ability to release quickly. The process managers might balk at this change but it will be much easier to maintain and my team will continue to deliver results with much less resources.</p>\n\n<p><em>Note: This is a series of posts inspired by re-reading <a href=\"https://basecamp.com/books/rework\">Rework</a>, by <a href=\"https://twitter.com/dhh\">DHH</a> and <a href=\"https://twitter.com/jasonfried\">Jason Fried</a>.</em></p>\n",
+			"date_published": "2018-03-04T16:34:00-05:00",
 			"url": "https://nate.micro.blog/2018/03/04/ignore-the-real.html"
 		},
 		
@@ -80,8 +88,8 @@
 	      	
 			"title": "Fixing the Apple TV Remote",
 			
-			"content_html": "<p>The Apple TV Remote receives a lot of criticism about its ergonomics and usability. Well, Elgato has a nice cover for the Remote that has solved some of the ergonomics issues, at least for me. I can now always feel which end is top and bottom by feel (the cord). It is grippy so it stays on the couch arm without worry of sliding off. It’s also a bit bigger so it fits better in my hand and doesn’t get lost in the cushions as easily. As a bonus, it’s magnetic. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/a8214a5393.jpg\" width=\"600\" height=\"599\" /><img src=\"http://nate.micro.blog/uploads/2018/8d9f3df500.jpg\" width=\"599\" height=\"600\" /><img src=\"http://nate.micro.blog/uploads/2018/b29a3b0f96.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-23T12:03:00-04:00",
+			"content_html": "<p>The Apple TV Remote receives a lot of criticism about its ergonomics and usability. Well, Elgato has a nice cover for the Remote that has solved some of the ergonomics issues, at least for me. I can now always feel which end is top and bottom by feel (the cord). It is grippy so it stays on the couch arm without worry of sliding off. It’s also a bit bigger so it fits better in my hand and doesn’t get lost in the cushions as easily. As a bonus, it’s magnetic.</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/a8214a5393.jpg\" width=\"600\" height=\"599\" /><img src=\"http://nate.micro.blog/uploads/2018/8d9f3df500.jpg\" width=\"599\" height=\"600\" /><img src=\"http://nate.micro.blog/uploads/2018/b29a3b0f96.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-23T11:03:00-05:00",
 			"url": "https://nate.micro.blog/2018/02/23/fixing-the-apple.html"
 		},
 		
@@ -89,7 +97,7 @@
 			"id": "http://nate.micro.blog/2018/02/11/my-day-ended.html",
 	      	
 			"content_html": "<p>My day ended like this. How was yours?</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/4b612acebd.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-10T20:22:00-04:00",
+			"date_published": "2018-02-10T19:22:00-05:00",
 			"url": "https://nate.micro.blog/2018/02/10/my-day-ended.html"
 		},
 		
@@ -98,24 +106,24 @@
 	      	
 			"title": "Podcast: The Compass - My Perfect Country",
 			
-			"content_html": "<p>The linked episode is part of a series about building a perfect country. They visit countries all over the world and find something in which that particular country excels. Rwanda has amazing gender equality laws and regulations. It’s a great podcast outside of my normal tech episodes. <a href=\"https://overcast.fm/+Ip9RuwDkg\">overcast.fm/+Ip9RuwDk…</a> </p>\n",
-			"date_published": "2018-02-08T09:05:00-04:00",
+			"content_html": "<p>The linked episode is part of a series about building a perfect country. They visit countries all over the world and find something in which that particular country excels. Rwanda has amazing gender equality laws and regulations. It’s a great podcast outside of my normal tech episodes. <a href=\"https://overcast.fm/+Ip9RuwDkg\">overcast.fm/+Ip9RuwDk…</a></p>\n",
+			"date_published": "2018-02-08T08:05:00-05:00",
 			"url": "https://nate.micro.blog/2018/02/08/podcast-the-compass.html"
 		},
 		
 		{
 			"id": "http://nate.micro.blog/2018/02/03/latest-star-wars.html",
 	      	
-			"content_html": "<p>Latest Star Wars LEGO project - Poe Dameron’s Resistance X-Wing. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/491a83b90c.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-03T14:33:00-04:00",
+			"content_html": "<p>Latest Star Wars LEGO project - Poe Dameron’s Resistance X-Wing.</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/491a83b90c.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-03T13:33:00-05:00",
 			"url": "https://nate.micro.blog/2018/02/03/latest-star-wars.html"
 		},
 		
 		{
 			"id": "http://nate.micro.blog/2018/01/15/the-girls-and.html",
 	      	
-			"content_html": "<p>The girls and I built my (yes, I get LEGO for Christmas) Kylo Ren’s Command Shuttle over Christmas break and re-built my daughter’s Millenium Falcon from scratch (finding each piece among the bins of LEGO!!!) this weekend. </p>\n\n<p>This seems like a precursor of episode IX.</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/da074f30eb.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-15T11:18:00-04:00",
+			"content_html": "<p>The girls and I built my (yes, I get LEGO for Christmas) Kylo Ren’s Command Shuttle over Christmas break and re-built my daughter’s Millenium Falcon from scratch (finding each piece among the bins of LEGO!!!) this weekend.</p>\n\n<p>This seems like a precursor of episode IX.</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/da074f30eb.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-15T10:18:00-05:00",
 			"url": "https://nate.micro.blog/2018/01/15/the-girls-and.html"
 		},
 		
@@ -123,7 +131,7 @@
 			"id": "http://nate.micro.blog/2018/01/04/one-of-the.html",
 	      	
 			"content_html": "<p>One of the benefits of having kids who like Star Wars and robots is having these two for company on my desk.</p>\n\n<p>Fun fact: sometimes they wake up and move around and start chatting. It’s startled me a more than once.</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2018/1d394255ee.jpg\" width=\"600\" height=\"458\" /></p>\n",
-			"date_published": "2018-01-04T11:14:00-04:00",
+			"date_published": "2018-01-04T10:14:00-05:00",
 			"url": "https://nate.micro.blog/2018/01/04/one-of-the.html"
 		},
 		
@@ -132,8 +140,8 @@
 	      	
 			"title": "iPhone X Tips",
 			
-			"content_html": "<h2 id=\"general-iphone-x-tips\">General iPhone X Tips</h2>\n<p>1) Fast(er) access to the multi-tasking switcher. Pull up from the bottom less than an inch, hesitate, then lift your finger from the screen. It is “pull up and lift finger” rather than a “flicking upward” gesture. Also, you don’t need to wait for the haptic feedback.</p>\n\n<p>2) You can still Force quit apps in the multitasker. First enter the multi-tasking view, then hold down on any of the apps. A red circle will appear in the top left of each app screen. You can tap the red circle or swipe up on the app screen to force quit each app. I don’t recommend force quitting any apps regularly. This should only be used in situations where you believe a particular app is misbehaving (i.e. Facebook). Force quitting all apps does not improve battery life. In fact, it reduces battery life by requiring more processing to start rather than resuming apps. </p>\n\n<p>3) Animoji doesn’t work in the dark.</p>\n\n<p>4) You can take a screenshot by pushing either volume button and the power button at the same time. Editing or sharing screenshots is awesome in iOS 11. Try it!</p>\n\n<p>5) If you hold down the top volume button and the power button at the same time for 2-3 seconds it will lock the phone and disable all biometric authentication (Face ID and Touch ID). Some call this the Police hold because you can activate it while handing your phone to an officer. Once activated only the passcode can unlock the phone.</p>\n\n<h2 id=\"face-id-tips\">Face ID Tips</h2>\n<p>1) Works in bright light or darkness just as well as indoor lighting.</p>\n\n<p>2) Requires being right side up to work; It doesn’t work sideways or upside down.</p>\n\n<p>3) It needs to be 8” - 24” from your face to work consistently.</p>\n\n<p>4) The best way to use Face ID is to pretend that your phone doesn’t have a passcode or Touch ID. Just tap the screen to wake the phone and then swipe up to go to the home screen or the previously used app.</p>\n",
-			"date_published": "2018-01-03T11:11:00-04:00",
+			"content_html": "<h2 id=\"general-iphone-x-tips\">General iPhone X Tips</h2>\n<p>1) Fast(er) access to the multi-tasking switcher. Pull up from the bottom less than an inch, hesitate, then lift your finger from the screen. It is “pull up and lift finger” rather than a “flicking upward” gesture. Also, you don’t need to wait for the haptic feedback.</p>\n\n<p>2) You can still Force quit apps in the multitasker. First enter the multi-tasking view, then hold down on any of the apps. A red circle will appear in the top left of each app screen. You can tap the red circle or swipe up on the app screen to force quit each app. I don’t recommend force quitting any apps regularly. This should only be used in situations where you believe a particular app is misbehaving (i.e. Facebook). Force quitting all apps does not improve battery life. In fact, it reduces battery life by requiring more processing to start rather than resuming apps.</p>\n\n<p>3) Animoji doesn’t work in the dark.</p>\n\n<p>4) You can take a screenshot by pushing either volume button and the power button at the same time. Editing or sharing screenshots is awesome in iOS 11. Try it!</p>\n\n<p>5) If you hold down the top volume button and the power button at the same time for 2-3 seconds it will lock the phone and disable all biometric authentication (Face ID and Touch ID). Some call this the Police hold because you can activate it while handing your phone to an officer. Once activated only the passcode can unlock the phone.</p>\n\n<h2 id=\"face-id-tips\">Face ID Tips</h2>\n<p>1) Works in bright light or darkness just as well as indoor lighting.</p>\n\n<p>2) Requires being right side up to work; It doesn’t work sideways or upside down.</p>\n\n<p>3) It needs to be 8” - 24” from your face to work consistently.</p>\n\n<p>4) The best way to use Face ID is to pretend that your phone doesn’t have a passcode or Touch ID. Just tap the screen to wake the phone and then swipe up to go to the home screen or the previously used app.</p>\n",
+			"date_published": "2018-01-03T10:11:00-05:00",
 			"url": "https://nate.micro.blog/2018/01/03/iphone-x-tips.html"
 		},
 		
@@ -143,7 +151,7 @@
 			"title": "Yearly Security Audit",
 			
 			"content_html": "<p>Around this time of year I start auditing some of my online security. Here are some links and tips so you can do the same. Have a happy and safe 2018.</p>\n\n<p>First, I clean out all the connected applications to Facebook, Twitter, and Google. Usually these are services I don’t use (or don’t exist anymore). They generally have more access to my data than I’m comfortable. Clean it up!</p>\n\n<ul>\n  <li>\n    <p>Facebook - <a href=\"https://www.facebook.com/settings\">www.facebook.com/settings</a></p>\n  </li>\n  <li>\n    <p>Twitter - <a href=\"https://twitter.com/settings/applications\">twitter.com/settings/…</a></p>\n  </li>\n  <li>\n    <p>Google - <a href=\"https://myaccount.google.com/u/0/permissions\">myaccount.google.com/u/0/permi…</a></p>\n  </li>\n</ul>\n\n<p>I use <a href=\"https://1password.com\">1Password</a> to manage all of my passwords. They have a handy section for security audit. You can check how old your passwords are but I mainly focus on the <em>Watchtower</em>  and <em>Weak Passwords</em> sections.</p>\n",
-			"date_published": "2018-01-02T16:55:00-04:00",
+			"date_published": "2018-01-02T15:55:00-05:00",
 			"url": "https://nate.micro.blog/2018/01/02/yearly-security-audit.html"
 		},
 		
@@ -151,7 +159,7 @@
 			"id": "http://nate.micro.blog/2017/12/25/ready-for-christmas.html",
 	      	
 			"content_html": "<p>Ready for Christmas morning!</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2017/bbd3ba3464.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2017-12-25T01:04:00-04:00",
+			"date_published": "2017-12-25T00:04:00-05:00",
 			"url": "https://nate.micro.blog/2017/12/25/ready-for-christmas.html"
 		},
 		
@@ -159,7 +167,7 @@
 			"id": "http://nate.micro.blog/2017/11/06/i-started-swimming.html",
 	      	
 			"content_html": "<p>I started swimming again today. My left arm has been hurting when I raise it above my head for the last month or so - probably from playing tennis. The first 1000 yards really hurt but my arm is much better now. Kind of a physical therapy…</p>\n",
-			"date_published": "2017-11-06T17:04:00-04:00",
+			"date_published": "2017-11-06T16:04:00-05:00",
 			"url": "https://nate.micro.blog/2017/11/06/i-started-swimming.html"
 		},
 		
@@ -214,17 +222,9 @@
 		{
 			"id": "http://nate.micro.blog/2017/10/29/i-had-a.html",
 	      	
-			"content_html": "<p>I had a great time visiting my mom this weekend and enjoying the beautiful fall colors of Wenatchee. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2017/208909d23c.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"content_html": "<p>I had a great time visiting my mom this weekend and enjoying the beautiful fall colors of Wenatchee.</p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2017/208909d23c.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-10-29T08:59:00-04:00",
 			"url": "https://nate.micro.blog/2017/10/29/i-had-a.html"
-		},
-		
-		{
-			"id": "http://nate.micro.blog/2017/10/28/i-visited-my.html",
-	      	
-			"content_html": "<p>I visited my dad’s grave today. Even after three years I still miss him a lot. He was a good man. I hope I can live up to his legacy. </p>\n\n<p><img src=\"http://nate.micro.blog/uploads/2017/2a5de67811.jpg\" width=\"600\" height=\"600\" /><img src=\"http://nate.micro.blog/uploads/2017/f4701f178d.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-28T02:11:00-04:00",
-			"url": "https://nate.micro.blog/2017/10/28/i-visited-my.html"
 		}
 		
 	]
