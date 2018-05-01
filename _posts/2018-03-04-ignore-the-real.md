@@ -3,7 +3,7 @@ layout: post
 title: "Ignore the real world"
 microblog: false
 audio: 
-date: 2018-03-04 17:34 -0400
+date: 2018-03-04 17:34:08 -0400
 guid: http://nate.micro.blog/2018/03/04/ignore-the-real.html
 ---
 The real world says, “the only things that win are what people already know and do, even if those things are flawed and inefficient.”
