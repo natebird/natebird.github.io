@@ -3,7 +3,7 @@ layout: post
 title: "Be a Starter"
 microblog: false
 audio: 
-date: 2018-03-13 13:47 -0400
+date: 2018-03-13 13:47:33 -0400
 guid: http://nate.micro.blog/2018/03/13/be-a-starter.html
 ---
 In 2008 I created my own business. I registered an LLC and tried to create a web application that could host simple web sites for carpet cleaners. While it didn’t work out how I envisioned I fancied calling myself an entrepreneur. I was building something new. I was going to put carpet cleaners on the internet. I did those things, only on a much smaller scale than I initially envisioned. But I did get the ‘create’ something bug. I learned that I liked creating things. New apps, new workflows, new processes.
