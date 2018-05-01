@@ -3,7 +3,7 @@ layout: post
 title: "Make a Dent in the Universe"
 microblog: false
 audio: 
-date: 2018-03-14 10:53 -0400
+date: 2018-03-14 10:53:51 -0400
 guid: http://nate.micro.blog/2018/03/14/make-a-dent.html
 ---
 > To do great work, you need to feel that you’re making a difference. That you’re putting a meaningful dent in the universe. That you’re part of something important.
