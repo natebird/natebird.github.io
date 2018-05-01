@@ -15,6 +15,7 @@ baseurl: ""
 url: "https://nate.micro.blog"
 markdown: "kramdown"
 username: "nate"
+microblog_user: "nate"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Nate Bird"
@@ -31,3 +32,5 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "1621"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
