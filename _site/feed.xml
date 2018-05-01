@@ -4,14 +4,33 @@
     <title>Nate Bird</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nate&quot;&gt;@nate on Micro.blog&lt;/a&gt;.</description>
     <link>https://nate.micro.blog/</link>
-    <pubDate>Mon, 09 Apr 2018 11:39:04 -0400</pubDate>
-    <lastBuildDate>Mon, 09 Apr 2018 11:39:04 -0400</lastBuildDate>
+    <pubDate>Tue, 01 May 2018 08:53:58 -0400</pubDate>
+    <lastBuildDate>Tue, 01 May 2018 08:53:58 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Overcast 4.2</title>
+        
+        <description>&lt;p&gt;Marco Arment released a new version of &lt;a href=&quot;https://marco.org/2018/04/27/overcast42&quot;&gt;Overcast&lt;/a&gt; last Friday and I’m impressed with the level of privacy that is possible while still maintaining functionality and a good user experience.&lt;/p&gt;
+
+&lt;p&gt;Almost all accounts are now anonymous - meaning that they contain NO user identifiable information. The account that is created doesn’t have a username/email or password. It uses iCloud to get a login token and uses that token to identify and login the account across devices.&lt;/p&gt;
+
+&lt;p&gt;The app has the same functionality and the experience is better using login tokens than having to remember yet another account name and password and logging in and setting up 2FA. All of that nonsense just disappears. It’s better for the user because Overcast can’t track the individual. It’s better for Marco because he doesn’t have to manage personal information because their isn’t any to manage.&lt;/p&gt;
+
+&lt;p&gt;I look forward to seeing this shift in application design - privacy first design. Designing an application to have privacy first requires a lot of foresight and planning. It is much more difficult to add/remove personal information because it requires changing so many workflows.&lt;/p&gt;
+
+&lt;p&gt;I applaud Marco and other developers who are pushing privacy first application design.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 May 2018 08:53:51 -0400</pubDate>
+        <link>https://nate.micro.blog/2018/05/01/overcast.html</link>
+        <guid isPermaLink="true">http://nate.micro.blog/2018/05/01/overcast.html</guid>
+      </item>
     
       <item>
       	
         <description>&lt;p&gt;A new trailer for Solo: A Star Wars Story! I’m pretty excited about this. &lt;a href=&quot;https://www.youtube.com/watch?v=jPEYpryMp2s&quot;&gt;www.youtube.com/watch&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 09 Apr 2018 11:39:00 -0400</pubDate>
+        <pubDate>Mon, 09 Apr 2018 11:39:03 -0400</pubDate>
         <link>https://nate.micro.blog/2018/04/09/a-new-trailer.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/04/09/a-new-trailer.html</guid>
       </item>
@@ -32,7 +51,7 @@
 
 &lt;p&gt;&lt;em&gt;Note: This is part of a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 14 Mar 2018 10:53:00 -0400</pubDate>
+        <pubDate>Wed, 14 Mar 2018 10:53:51 -0400</pubDate>
         <link>https://nate.micro.blog/2018/03/14/make-a-dent.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/03/14/make-a-dent.html</guid>
       </item>
@@ -47,7 +66,7 @@
 
 &lt;p&gt;&lt;em&gt;Note: This is part of a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 13 Mar 2018 13:47:00 -0400</pubDate>
+        <pubDate>Tue, 13 Mar 2018 13:47:33 -0400</pubDate>
         <link>https://nate.micro.blog/2018/03/13/be-a-starter.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/03/13/be-a-starter.html</guid>
       </item>
@@ -71,7 +90,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;em&gt;Note: This is part of a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 11 Mar 2018 13:37:00 -0400</pubDate>
+        <pubDate>Sun, 11 Mar 2018 13:37:02 -0400</pubDate>
         <link>https://nate.micro.blog/2018/03/11/workaholism.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/03/11/workaholism.html</guid>
       </item>
@@ -88,7 +107,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;em&gt;Note: This is part of a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Mar 2018 16:38:00 -0500</pubDate>
+        <pubDate>Sat, 10 Mar 2018 16:38:16 -0500</pubDate>
         <link>https://nate.micro.blog/2018/03/10/why-grow.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/03/10/why-grow.html</guid>
       </item>
@@ -105,7 +124,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;em&gt;Note: This is a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Mar 2018 21:33:00 -0500</pubDate>
+        <pubDate>Tue, 06 Mar 2018 21:33:34 -0500</pubDate>
         <link>https://nate.micro.blog/2018/03/06/planning-is-guessing.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/03/07/planning-is-guessing.html</guid>
       </item>
@@ -124,7 +143,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;em&gt;Note: This is a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Mar 2018 21:32:00 -0500</pubDate>
+        <pubDate>Tue, 06 Mar 2018 21:32:47 -0500</pubDate>
         <link>https://nate.micro.blog/2018/03/06/failure-is-not.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/03/07/failure-is-not.html</guid>
       </item>
@@ -145,7 +164,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;em&gt;Note: This is a series of posts inspired by re-reading &lt;a href=&quot;https://basecamp.com/books/rework&quot;&gt;Rework&lt;/a&gt;, by &lt;a href=&quot;https://twitter.com/dhh&quot;&gt;DHH&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/jasonfried&quot;&gt;Jason Fried&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 04 Mar 2018 16:34:00 -0500</pubDate>
+        <pubDate>Sun, 04 Mar 2018 16:34:08 -0500</pubDate>
         <link>https://nate.micro.blog/2018/03/04/ignore-the-real.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/03/04/ignore-the-real.html</guid>
       </item>
@@ -158,7 +177,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2018/a8214a5393.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2018/8d9f3df500.jpg&quot; width=&quot;599&quot; height=&quot;600&quot; /&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2018/b29a3b0f96.jpg&quot; width=&quot;599&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 23 Feb 2018 11:03:00 -0500</pubDate>
+        <pubDate>Fri, 23 Feb 2018 11:03:35 -0500</pubDate>
         <link>https://nate.micro.blog/2018/02/23/fixing-the-apple.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/02/23/fixing-the-apple.html</guid>
       </item>
@@ -169,7 +188,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2018/4b612acebd.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Feb 2018 19:22:00 -0500</pubDate>
+        <pubDate>Sat, 10 Feb 2018 19:22:16 -0500</pubDate>
         <link>https://nate.micro.blog/2018/02/10/my-day-ended.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/02/11/my-day-ended.html</guid>
       </item>
@@ -180,7 +199,7 @@ I’ve been in this position a few times in my career. One particular time came 
         
         <description>&lt;p&gt;The linked episode is part of a series about building a perfect country. They visit countries all over the world and find something in which that particular country excels. Rwanda has amazing gender equality laws and regulations. It’s a great podcast outside of my normal tech episodes. &lt;a href=&quot;https://overcast.fm/+Ip9RuwDkg&quot;&gt;overcast.fm/+Ip9RuwDk…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 08 Feb 2018 08:05:00 -0500</pubDate>
+        <pubDate>Thu, 08 Feb 2018 08:05:10 -0500</pubDate>
         <link>https://nate.micro.blog/2018/02/08/podcast-the-compass.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/02/08/podcast-the-compass.html</guid>
       </item>
@@ -191,7 +210,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2018/491a83b90c.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 03 Feb 2018 13:33:00 -0500</pubDate>
+        <pubDate>Sat, 03 Feb 2018 13:33:34 -0500</pubDate>
         <link>https://nate.micro.blog/2018/02/03/latest-star-wars.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/02/03/latest-star-wars.html</guid>
       </item>
@@ -204,7 +223,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2018/da074f30eb.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 15 Jan 2018 10:18:00 -0500</pubDate>
+        <pubDate>Mon, 15 Jan 2018 10:18:13 -0500</pubDate>
         <link>https://nate.micro.blog/2018/01/15/the-girls-and.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/01/15/the-girls-and.html</guid>
       </item>
@@ -217,7 +236,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2018/1d394255ee.jpg&quot; width=&quot;600&quot; height=&quot;458&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 04 Jan 2018 10:14:00 -0500</pubDate>
+        <pubDate>Thu, 04 Jan 2018 10:14:21 -0500</pubDate>
         <link>https://nate.micro.blog/2018/01/04/one-of-the.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/01/04/one-of-the.html</guid>
       </item>
@@ -246,7 +265,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;4) The best way to use Face ID is to pretend that your phone doesn’t have a passcode or Touch ID. Just tap the screen to wake the phone and then swipe up to go to the home screen or the previously used app.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 Jan 2018 10:11:00 -0500</pubDate>
+        <pubDate>Wed, 03 Jan 2018 10:11:41 -0500</pubDate>
         <link>https://nate.micro.blog/2018/01/03/iphone-x-tips.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/01/03/iphone-x-tips.html</guid>
       </item>
@@ -273,7 +292,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;I use &lt;a href=&quot;https://1password.com&quot;&gt;1Password&lt;/a&gt; to manage all of my passwords. They have a handy section for security audit. You can check how old your passwords are but I mainly focus on the &lt;em&gt;Watchtower&lt;/em&gt;  and &lt;em&gt;Weak Passwords&lt;/em&gt; sections.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 02 Jan 2018 15:55:00 -0500</pubDate>
+        <pubDate>Tue, 02 Jan 2018 15:55:34 -0500</pubDate>
         <link>https://nate.micro.blog/2018/01/02/yearly-security-audit.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2018/01/02/yearly-security-audit.html</guid>
       </item>
@@ -284,7 +303,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2017/bbd3ba3464.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 25 Dec 2017 00:04:00 -0500</pubDate>
+        <pubDate>Mon, 25 Dec 2017 00:04:12 -0500</pubDate>
         <link>https://nate.micro.blog/2017/12/25/ready-for-christmas.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/12/25/ready-for-christmas.html</guid>
       </item>
@@ -293,7 +312,7 @@ I’ve been in this position a few times in my career. One particular time came 
       	
         <description>&lt;p&gt;I started swimming again today. My left arm has been hurting when I raise it above my head for the last month or so - probably from playing tennis. The first 1000 yards really hurt but my arm is much better now. Kind of a physical therapy…&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Nov 2017 16:04:00 -0500</pubDate>
+        <pubDate>Mon, 06 Nov 2017 16:04:44 -0500</pubDate>
         <link>https://nate.micro.blog/2017/11/06/i-started-swimming.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/11/06/i-started-swimming.html</guid>
       </item>
@@ -302,7 +321,7 @@ I’ve been in this position a few times in my career. One particular time came 
       	
         <description>&lt;p&gt;I’m not sure I’ll use micro blog enough to pay for it. It’s cool but I don’t post enough to make it worth paying. It’s not you; it’s me. 🙃&lt;/p&gt;
 </description>
-        <pubDate>Sat, 04 Nov 2017 23:52:00 -0400</pubDate>
+        <pubDate>Sat, 04 Nov 2017 23:52:54 -0400</pubDate>
         <link>https://nate.micro.blog/2017/11/04/im-not-sure.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/11/05/im-not-sure.html</guid>
       </item>
@@ -311,7 +330,7 @@ I’ve been in this position a few times in my career. One particular time came 
       	
         <description>&lt;p&gt;Interesting that Face ID works in the dark but Animoji needs light. #iPhoneX&lt;/p&gt;
 </description>
-        <pubDate>Sat, 04 Nov 2017 23:50:00 -0400</pubDate>
+        <pubDate>Sat, 04 Nov 2017 23:50:43 -0400</pubDate>
         <link>https://nate.micro.blog/2017/11/04/interesting-that-face.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/11/05/interesting-that-face.html</guid>
       </item>
@@ -320,7 +339,7 @@ I’ve been in this position a few times in my career. One particular time came 
       	
         <description>&lt;p&gt;An after midnight post for the badge. 😜&lt;/p&gt;
 </description>
-        <pubDate>Sat, 04 Nov 2017 00:13:00 -0400</pubDate>
+        <pubDate>Sat, 04 Nov 2017 00:13:56 -0400</pubDate>
         <link>https://nate.micro.blog/2017/11/04/an-after-midnight.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/11/04/an-after-midnight.html</guid>
       </item>
@@ -329,7 +348,7 @@ I’ve been in this position a few times in my career. One particular time came 
       	
         <description>&lt;p&gt;iPhone X is in hand and it’s awesome!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Nov 2017 18:46:00 -0400</pubDate>
+        <pubDate>Fri, 03 Nov 2017 18:46:03 -0400</pubDate>
         <link>https://nate.micro.blog/2017/11/03/iphone-x-is.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/11/03/iphone-x-is.html</guid>
       </item>
@@ -338,7 +357,7 @@ I’ve been in this position a few times in my career. One particular time came 
       	
         <description>&lt;p&gt;One more day! #iPhoneX&lt;/p&gt;
 </description>
-        <pubDate>Thu, 02 Nov 2017 15:54:00 -0400</pubDate>
+        <pubDate>Thu, 02 Nov 2017 15:54:23 -0400</pubDate>
         <link>https://nate.micro.blog/2017/11/02/one-more-day.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/11/02/one-more-day.html</guid>
       </item>
@@ -347,7 +366,7 @@ I’ve been in this position a few times in my career. One particular time came 
       	
         <description>&lt;p&gt;I’m getting excited about my new iPhone coming. My first new iPhone since the 6. The reviews today are only increasing the excitement. Yay!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 31 Oct 2017 15:26:00 -0400</pubDate>
+        <pubDate>Tue, 31 Oct 2017 15:26:21 -0400</pubDate>
         <link>https://nate.micro.blog/2017/10/31/im-getting-excited.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/10/31/im-getting-excited.html</guid>
       </item>
@@ -358,7 +377,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2017/208909d23c.jpg&quot; width=&quot;600&quot; height=&quot;599&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 29 Oct 2017 08:59:00 -0400</pubDate>
+        <pubDate>Sun, 29 Oct 2017 08:59:52 -0400</pubDate>
         <link>https://nate.micro.blog/2017/10/29/i-had-a.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/10/29/i-had-a.html</guid>
       </item>
@@ -369,7 +388,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2017/2a5de67811.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2017/f4701f178d.jpg&quot; width=&quot;599&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 28 Oct 2017 02:11:00 -0400</pubDate>
+        <pubDate>Sat, 28 Oct 2017 02:11:22 -0400</pubDate>
         <link>https://nate.micro.blog/2017/10/28/i-visited-my.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/10/28/i-visited-my.html</guid>
       </item>
@@ -380,7 +399,7 @@ I’ve been in this position a few times in my career. One particular time came 
 
 &lt;p&gt;&lt;img src=&quot;http://nate.micro.blog/uploads/2017/1624c5d90a.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 26 Oct 2017 16:08:00 -0400</pubDate>
+        <pubDate>Thu, 26 Oct 2017 16:08:55 -0400</pubDate>
         <link>https://nate.micro.blog/2017/10/26/im-enjoying-the.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/10/26/im-enjoying-the.html</guid>
       </item>
@@ -389,7 +408,7 @@ I’ve been in this position a few times in my career. One particular time came 
       	
         <description>&lt;p&gt;Finished the third day of Thinking in Swift in Seattle. This intermediate course has been insightful and dug into different types of ‘map’ and various ViewController communication types. I recommend it.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 25 Oct 2017 19:57:00 -0400</pubDate>
+        <pubDate>Wed, 25 Oct 2017 19:57:20 -0400</pubDate>
         <link>https://nate.micro.blog/2017/10/25/finished-the-third.html</link>
         <guid isPermaLink="true">http://nate.micro.blog/2017/10/25/finished-the-third.html</guid>
       </item>
