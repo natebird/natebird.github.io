@@ -3,7 +3,7 @@ layout: post
 title: "Failure is not a rite of passage"
 microblog: false
 audio: 
-date: 2018-03-06 22:32 -0400
+date: 2018-03-06 22:32:47 -0400
 guid: http://nate.micro.blog/2018/03/07/failure-is-not.html
 ---
 “Failure is not a prerequisite for success.”
