@@ -3,7 +3,7 @@ layout: post
 title: "Planning is guessing"
 microblog: false
 audio: 
-date: 2018-03-06 22:33 -0400
+date: 2018-03-06 22:33:34 -0400
 guid: http://nate.micro.blog/2018/03/07/planning-is-guessing.html
 ---
 The process we follow for releasing software starts with a design planning meeting. It has a form to plan the release and a full grant chart is supposed to be attached to the document. All of this happens before any code is written. The end date is chosen before we get a chance to dig into the details. The schedule always needs to be adjusted. The plain never stays the same. And it always is late. The dates are chosen so far in advance with an optimistic mindset that it is nearly impossible to keep them.
