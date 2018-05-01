@@ -4,8 +4,8 @@
     <title>Nate Bird</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/nate&quot;&gt;@nate on Micro.blog&lt;/a&gt;.</description>
     <link>https://nate.micro.blog/</link>
-    <pubDate>Tue, 01 May 2018 12:58:10 -0400</pubDate>
-    <lastBuildDate>Tue, 01 May 2018 12:58:10 -0400</lastBuildDate>
+    <pubDate>Tue, 01 May 2018 16:16:01 -0400</pubDate>
+    <lastBuildDate>Tue, 01 May 2018 16:16:01 -0400</lastBuildDate>
     
       <item>
       	
@@ -13,12 +13,15 @@
         
         <description>&lt;p&gt;After posting about the privacy focused Overcast update I received a company training on GDPR.&lt;/p&gt;
 
-&lt;p&gt;Some interesting things I got out of it:
-1) Breach Notification - regulators are to be notified within 72 hours and users should be notified “without undue delay”. 
-2) Right of Access - After receiving a written request from an individual, companies are required to provide the personal data, in electronic format, free of charge, within a month.
-3) Right to be Forgotten - Individuals can request that companies controlling and processing personal data erase the data and stop any further circulation of the data.
-4) Data Portability - Individuals can request that their data by freely transferred to another organization.
-5) Right to Object - Users have the right to object to their personal data being used for “profiling”, which is any form of automated processing to evaluate personal aspects of an individual.&lt;/p&gt;
+&lt;p&gt;Some interesting things I got out of it:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Breach Notification - regulators are to be notified within 72 hours and users should be notified “without undue delay”.&lt;/li&gt;
+  &lt;li&gt;Right of Access - After receiving a written request from an individual, companies are required to provide the personal data, in electronic format, free of charge, within a month.&lt;/li&gt;
+  &lt;li&gt;Right to be Forgotten - Individuals can request that companies controlling and processing personal data erase the data and stop any further circulation of the data.&lt;/li&gt;
+  &lt;li&gt;Data Portability - Individuals can request that their data by freely transferred to another organization.&lt;/li&gt;
+  &lt;li&gt;Right to Object - Users have the right to object to their personal data being used for “profiling”, which is any form of automated processing to evaluate personal aspects of an individual.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;As a user I love each one of these individual rights. From a company perspective (not the company for whom I work, I don’t speak for them.) I think it’s going to require a lot of changes to processes to be compliant.&lt;/p&gt;
 
