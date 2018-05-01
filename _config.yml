@@ -1,11 +1,22 @@
-email: your-email@domain.com
+highlighter: "rouge"
+# - markdown: "kramdown"
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-sass:
-  sass_dir: assets/stylesheets
-  style: :compressed
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
 
 title: "Nate Bird"
 tagline: ""
